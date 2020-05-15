@@ -25,7 +25,7 @@
 
 ## Zoom
 
-- Create meeting invite under webnar account
+- Create a meeting invitation using the webinar account - if you don't have permissions for this task, please ask Connor for details. 
 
 ## N3C website
 
