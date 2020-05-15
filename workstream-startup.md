@@ -1,4 +1,4 @@
-# Workstream Startup notes
+# Instructions to set up new Workstream & Subgroups
 
 ## Google Groups and listserv
 
